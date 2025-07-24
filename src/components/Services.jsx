@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Card from './Card'
 import Button from './Button'
 import Benefits from './Benefits'
@@ -35,7 +35,7 @@ const Services = () => {
           <h2 className='text-4xl sm:text-5xl font-bold text-gray-900 max-w-4xl mx-auto leading-tight'>
             We Offer creative working environments
           </h2>
-          <p className='text-lg text-gray-600 max-w-2xl mx-auto leading-relaxed'>
+          <p className='text-lg text-gray-600 max-w-2xl mx-auto leading-relaxed text-pretty'>
             Find your perfect workspace. Choose from versatile options tailored
             to your needs.
           </p>

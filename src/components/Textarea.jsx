@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 const Textarea = ({ label, className = "", name, value, onChange, placeholder, error, required = false, ...props }) => {
   return (
