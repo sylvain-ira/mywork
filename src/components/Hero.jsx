@@ -14,9 +14,9 @@ const Hero = () => {
         </div>
 
         <div className="relative z-10 text-center px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
-          <p className="text-white text-lg sm:text-xl mb-6 font-medium text-pretty">The Best WorkSpace in Kigali</p>
+          <p className="text-white text-xl-2 md:text-5xl  mb-2 font-medium text-pretty ">The Best WorkSpace in Kigali</p>
 
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-8 tracking-tight">
+          <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold mb-8 tracking-tight">
             <span className="text-teal-400">Professional</span>
             <span className="text-white">, </span>
             <span className="text-white">Creative</span>
@@ -35,7 +35,7 @@ const Hero = () => {
 
           <Button
             size="lg"
-            className="bg-teal-600 hover:bg-teal-700 text-white px-8 py-4 text-lg font-semibold rounded-lg transition-all duration-300 transform hover:scale-105"
+            className="bg-teal-600 hover:bg-teal-700 text-white px-20 py-4 text-5xl font-bold transition-all duration-300 transform hover:scale-105"
           >
             Explore
           </Button>

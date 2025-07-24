@@ -41,7 +41,7 @@ const Services = () => {
           </p>
         </div>
 
-        <div className='grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto'>
+        <div className='grid md:grid-cols-3 gap-8 max-w-6xl mx-auto'>
           {services.map((service, index) =>
             <div
               key={index}
@@ -61,7 +61,7 @@ const Services = () => {
                       {service.title}
                       <span className='absolute bottom-0 left-1/2 transform -translate-x-1/2 w-12 h-0.5 bg-teal-600' />
                     </h3>
-                    <p className='text-gray-600 text-center leading-relaxed text-sm'>
+                    <p className='text-gray-600 text-center leading-relaxed  text-pretty text-sm md:text-lg lg:text-1xl'>
                       {service.description}
                     </p>
                     <div className='flex justify-center pt-2'>

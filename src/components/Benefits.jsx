@@ -50,7 +50,7 @@ const Benefits = () => {
         </div>
 
         <div className=" md:order-2">
-          <div className=" rounded-2xl overflow-hidden shadow-2xl h-full">
+          <div className=" rounded-2xl overflow-hidden shadow-2xl h-full mx-6">
             <img
               src="https://cdn.sanity.io/images/uqxwe2qj/production/62db3c671745e98cb27690dff96f8033d2bb7f35-2048x1010.jpg?q=80&auto=format&fit=clip&w=1440"
               alt="Modern office interior"
