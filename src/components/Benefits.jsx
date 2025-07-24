@@ -52,7 +52,7 @@ const Benefits = () => {
         <div className=" md:order-2">
           <div className=" rounded-2xl overflow-hidden shadow-2xl h-full mx-6">
             <img
-              src="https://cdn.sanity.io/images/uqxwe2qj/production/62db3c671745e98cb27690dff96f8033d2bb7f35-2048x1010.jpg?q=80&auto=format&fit=clip&w=1440"
+              src="https://images.unsplash.com/photo-1631247770372-1971e07dd9f4?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bG9mdCUyMG9mZmljZXxlbnwwfHwwfHx8MA=="
               alt="Modern office interior"
               className="w-full h-full object-cover rounded-xl"
             />

@@ -10,21 +10,21 @@ const Services = () => {
       description:
         'Lorem ipsum dolor sit amet consectetur adipiscing elit mollis mauris',
       image:
-        'https://img.freepik.com/premium-photo/side-view-computers-headset-desk-call-center-training-center_42331-2702.jpg?semt=ais_hybrid&w=740'
+        'https://www.greenprophet.com/wp-content/uploads//paperless-office.png'
     },
     {
       title: 'Coffee Shop',
       description:
         'Lorem ipsum dolor sit amet consectetur adipiscing elit mollis mauris',
       image:
-        'https://media.istockphoto.com/id/1400194993/photo/cappuccino-art.jpg?s=612x612&w=0&k=20&c=_nYOcyQ15cYEeUYgUzkC5qG946nkCwU06NiWKt1s8SE='
+        'https://coffeelounge.delonghi.com/wp-content/uploads/2023/05/Tavola-da-disegno-1-copia-6@2x.jpg'
     },
     {
       title: 'Private Event Space',
       description:
         'Lorem ipsum dolor sit amet consectetur adipiscing elit mollis mauris',
       image:
-        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStcYt1yuor-sTThbPLJzTBJPS1QmcggZJMig&s'
+        'https://s3-media0.fl.yelpcdn.com/bphoto/dcoOEIyEZ5I3XNtJY2GFuQ/l.jpg'
     }
   ]
 

@@ -6,7 +6,7 @@ const Hero = () => {
      <section className="relative min-h-screen flex items-center justify-center">
         <div className="absolute inset-0">
           <img
-            src="https://hbreavis.com/wp-content/uploads/2020/12/thumbnail-2-1000x666.jpeg"
+            src="https://images.unsplash.com/photo-1497366811353-6870744d04b2?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             alt="Modern office workspace"
             className="w-full h-full object-cover"
           />

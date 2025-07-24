@@ -16,7 +16,7 @@ const Mission = () => {
             <h2 className="text-4xl font-bold text-center mb-6">
               <span className="text-teal-500">Our</span> Mission
             </h2>
-            <p className="text-center font-bold text-lg leading-relaxed mb-8">
+            <p className="text-center text-pretty font-bold text-lg md:text-3xl leading-relaxed mb-8">
               Lorem ipsum dolor sit amet consectetur adipiscing elit, mattis blandit odio felis aliquet montes turpis
               consequat, est sociosqu vitae id nec rutrum. Ornare dictumst et eget fames cursus vel penatibus quis
               posuere, ultrices fermentum libero pretium convallis pharetra
