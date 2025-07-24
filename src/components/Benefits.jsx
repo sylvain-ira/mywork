@@ -8,7 +8,7 @@ import {
   TreesIcon,
 } from 'lucide-react'
 
-// Reusable card
+
 const BenefitCard = ({ icon: Icon, title, description }) => (
   <div className="bg-teal-50 p-6 rounded-2xl text-center h-full">
     <div className="w-16 h-16 bg-teal-600 rounded-full flex items-center justify-center mx-auto mb-4 text-white">
@@ -32,12 +32,12 @@ const Benefits = () => {
   ]
 
   return (
-    <section className="py-20 bg-background">
+    <section className="py-20 bg-white">
       <div className="text-center space-y-4 mb-16">
         <p className="text-teal-600 font-medium text-lg">Your Benefits</p>
         <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6">Why Choose Us</h2>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
-          Unleash your productivity with our premium workspace solutions. Elevate your work game and join the winning team today.
+          Unleash your productivity with our premium workspace solutions. Elevate your work game and join the winning team today....
         </p>
       </div>
 
@@ -49,7 +49,7 @@ const Benefits = () => {
           ))}
         </div>
 
-        <div className="hidden lg:block order-1 lg:order-2">
+        <div className="">
           <div className=" rounded-2xl overflow-hidden shadow-2xl h-full">
             <img
               src="https://cdn.sanity.io/images/uqxwe2qj/production/62db3c671745e98cb27690dff96f8033d2bb7f35-2048x1010.jpg?q=80&auto=format&fit=clip&w=1440"
