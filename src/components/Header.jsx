@@ -15,7 +15,7 @@ const Header = () => {
     { label: 'Space', href: '#space' },
     { label: 'About', href: '#about' },
     { label: 'Contact', href: '#contact' },
-        { label: 'OurMission', href: '#mission' }
+    { label: 'OurMission', href: '#mission' }
   ]
   return (
     <header className='bg-white border-b border-gray-200 sticky top-0 z-50'>

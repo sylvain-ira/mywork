@@ -124,7 +124,7 @@ const Contact = () => {
   return (
     <section
       id="contact"
-      className="flex flex-col lg:flex-row justify-around py-20 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto gap-12"
+      className="flex flex-col lg:flex-row justify-around py-20 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto gap-12 bg-[url('https://media.istockphoto.com/id/1470522174/vector/grey-map-of-the-world-on-a-white-background.jpg?s=2048x2048&w=is&k=20&c=J0EXu4EMf_3sTYatiLSR-8x9nTMEaIixpErIL7ucsfY=')]" 
     >
       <div className="flex flex-col gap-6">
         <div className="flex flex-col gap-3">

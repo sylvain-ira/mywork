@@ -6,9 +6,9 @@ const Footer = () => {
   return (
       <footer className="bg-white py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          {/* Main Footer Content */}
+         
           <div className="grid lg:grid-cols-3 gap-12 pb-8 border-b border-gray-200">
-            {/* Business Cafe Info */}
+         
             <div className="space-y-6">
               <div className="flex gap-2 items-center">
                 <LayoutGridIcon className="h-8 w-8 text-teal-500" />
@@ -35,7 +35,6 @@ const Footer = () => {
               </div>
             </div>
 
-            {/* Quick Links */}
             <div className="space-y-6">
               <h3 className="text-xl font-bold text-gray-900 pb-2 border-b-2 border-gray-200">Quick Links</h3>
               <ul className="space-y-3">
@@ -62,7 +61,7 @@ const Footer = () => {
               </ul>
             </div>
 
-            {/* Contact Info */}
+         
             <div className="space-y-6">
               <h3 className="text-xl font-bold text-gray-900 pb-2 border-b-2 border-gray-200">Contact Info</h3>
               <div className="space-y-4">
@@ -88,9 +87,9 @@ const Footer = () => {
             </div>
           </div>
 
-          {/* Copyright */}
+         
           <div className="pt-8 text-center">
-            <p className="text-gray-600">Copyright © 2025 Business Coffee All rights reserved.</p>
+            <p className="text-gray-600">Copyright © {new Date().getFullYear()} Business Coffee All rights reserved.</p>
           </div>
         </div>
       </footer>
